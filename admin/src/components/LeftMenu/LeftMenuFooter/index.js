@@ -19,7 +19,7 @@ function LeftMenuFooter() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Avançado
+          Alkimera Soluções Digitais
         </a>
       </div>
     </Wrapper>
