@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.431" height="41.623" viewBox="0 0 59.431 41.623">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.418" y1="0.242" x2="0.552" y2="0.946" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe076a"/>
+      <stop offset="1" stop-color="#0edeff"/>
+    </linearGradient>
+  </defs>
+  <g id="favicon" transform="translate(0.62 -8.305)">
+    <path id="Caminho_23" data-name="Caminho 23" d="M29.095,39.268h9.446a7.129,7.129,0,0,1,4.638,1.716l9.128,7.828a1.852,1.852,0,0,0,2.184.183c9.5-6.01-2.022-29.728-4.305-34.034-.242-.457-.641-2.936-1.126-3.113L41.384,9.057a2.248,2.248,0,0,0-2.017.242,13.15,13.15,0,0,1-2.649,1.383H21.744A16.642,16.642,0,0,1,18.823,9.3a2.249,2.249,0,0,0-2.017-.242L9.13,11.848C8.644,12.025,8.246,14.5,8,14.961,5.721,19.267-5.8,42.985,3.7,48.995a1.855,1.855,0,0,0,2.184-.183l9.128-7.828a7.129,7.129,0,0,1,4.638-1.716Z" stroke="#040404" stroke-width="1.2" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_9" data-name="Elipse 9" cx="4" cy="4" r="4" transform="translate(32.786 26.268)" fill="#c4e634"/>
+    <circle id="Elipse_10" data-name="Elipse 10" cx="4" cy="4" r="4" transform="translate(9.786 16.268)" fill="#c4e634"/>
+    <circle id="Elipse_11" data-name="Elipse 11" cx="2" cy="2" r="2" transform="translate(41.786 14.268)" fill="#ebba16"/>
+    <circle id="Elipse_12" data-name="Elipse 12" cx="2" cy="2" r="2" transform="translate(37.786 18.268)" fill="#7383bf"/>
+    <circle id="Elipse_13" data-name="Elipse 13" cx="2" cy="2" r="2" transform="translate(45.786 18.268)" fill="#d75a4a"/>
+    <circle id="Elipse_14" data-name="Elipse 14" cx="2" cy="2" r="2" transform="translate(41.786 22.268)" fill="#61b872"/>
+    <path id="Caminho_24" data-name="Caminho 24" d="M31.786,11.712a2.956,2.956,0,0,0-.054-.561,1.077,1.077,0,0,0-.215-.469H29.038c-.085.007-.165.03-.251.03s-.167-.022-.251-.03H26.047a1,1,0,0,0-.192.4,3,3,0,1,0,5.931.63Z" fill="#c4e634"/>
+    <path id="Caminho_25" data-name="Caminho 25" d="M27.286,27.921H24V24.635a.714.714,0,0,0-.714-.714H20.715a.714.714,0,0,0-.714.714v3.286H16.715a.714.714,0,0,0-.714.714v2.571a.714.714,0,0,0,.714.714H20v3.286a.714.714,0,0,0,.714.714h2.571A.714.714,0,0,0,24,35.206V31.92h3.286A.714.714,0,0,0,28,31.206V28.635A.713.713,0,0,0,27.286,27.921Z" fill="#c4e634"/>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-import Logo from "../../../assets/images/logo-won.svg";
+import Logo from "../../../assets/images/logo-iscoolar-black.svg";
 
 const Wrapper = styled.div`
   ${({ theme }) => css`
